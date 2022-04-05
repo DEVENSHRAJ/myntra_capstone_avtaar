@@ -1,0 +1,31 @@
+
+
+
+
+
+
+
+8:01 PM
+Front-end Developer
+1.a. Filters [Implement at least 2 filters]   #done
+1.b. Sort Products according to Price and Customer Ratings                        #customer rating left
+1.c. Expandable "View Similar" Button        #done
+1.d. Static Rating Icon                    #done
+1.e. Add to Wishlist Button, which is heart-shaped and has color changing properties      #done
+1.f. Static Search Bar (Just the UI. Search functionality is optional)      #done
+
+2. Details Page - Displays more details about the shirt     #done
+2.a. Image click should allow to zoom the image, and navigate to other images    #done
+2.b. You can select a size and add it to your bag.          #done
+
+3. Bag/Cart Page - Displays shirts added to the bag      #done
+3.a. Create your own design of this page if you want     #done
+3.b. Shows all the added products                        #done
+3.c. Allows to remove a shirt from the cart                #done
+
+Code beautification
+
+
+You can even host your project(optional)
+Attach the public GitHub link and also add screenshots of your designs to the README.md
+Submitted for Review

@@ -1,0 +1,52 @@
+@font-face {
+font-family: 'Whitney';
+src: url('https://constant.myntassets.com/www/fonts/WhitneyHTF-Book.eot');
+src: url('https://constant.myntassets.com/www/fonts/WhitneyHTF-Book.eot?#iefix') format('embedded-opentype'),
+url('https://constant.myntassets.com/www/fonts/WhitneyHTF-Book.woff') format('woff'),
+url('https://constant.myntassets.com/www/fonts/WhitneyHTF-Book.ttf') format('truetype');
+font-weight: 400;
+font-display: swap;
+font-style: normal;
+}
+
+@font-face {
+font-family: 'Whitney';
+src: url('https://constant.myntassets.com/www/fonts/WhitneyHTF-SemiBold.eot');
+src: url('https://constant.myntassets.com/www/fonts/WhitneyHTF-SemiBold.eot?#iefix') format('embedded-opentype'),
+url('https://constant.myntassets.com/www/fonts/WhitneyHTF-SemiBold.woff') format('woff'),
+url('https://constant.myntassets.com/www/fonts/WhitneyHTF-SemiBold.ttf') format('truetype');
+font-weight: 500;
+font-display: swap;
+font-style: normal;
+}
+
+
+/*cart number*/
+.badge {
+  padding-left: 9px;
+  padding-right: 9px;
+  -webkit-border-radius: 9px;
+  -moz-border-radius: 9px;
+  border-radius: 9px;
+}
+
+.label-warning[href],
+.badge-warning[href] {
+  background-color: #c67605;
+}
+#lblCartCount {
+    font-size: 12px;
+    background: #ff0000;
+    color: #fff;
+    padding: 0 5px;
+    vertical-align: top;
+    margin-left: -10px;
+}
+#lblWishCount {
+    font-size: 12px;
+    background: #ff0000;
+    color: #fff;
+    padding: 0 5px;
+    vertical-align: top;
+    margin-left: -10px;
+}
