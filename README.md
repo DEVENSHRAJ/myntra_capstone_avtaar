@@ -1,5 +1,6 @@
 # myntra_capstone_avtaar
 Capstone myntra project work under avtaar
+https://devenshraj.github.io/myntra_capstone_avtaar/
 #updates
 ![image](https://user-images.githubusercontent.com/69020033/161839248-55d16b36-aba2-4656-88be-af86703db07c.png)
 ![image](https://user-images.githubusercontent.com/69020033/161839301-1f3ef633-a21d-4f3c-a1a0-c27c66c57b50.png)
