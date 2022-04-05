@@ -20,6 +20,13 @@ Capstone myntra project work under avtaar
 ![image](https://user-images.githubusercontent.com/69020033/161840391-9c3e50cc-5534-4030-a0ae-8a4359eb978d.png)
 ![image](https://user-images.githubusercontent.com/69020033/161840413-6bba4339-c691-44e8-9557-e507c5fa94bc.png)
 
+#responsiveness
+![image](https://user-images.githubusercontent.com/69020033/161843119-bb8b7cd4-f6ff-4c6b-94a8-34f2287180d7.png)
+![image](https://user-images.githubusercontent.com/69020033/161843211-5cd50d2a-bcbc-4f92-ac40-88546178a76f.png)
+![image](https://user-images.githubusercontent.com/69020033/161843285-5c07d1a9-7ac2-4dd2-b49e-0b5ac67abc0f.png)
+
+
+
 #total task done
 Front-end Developer
 1.a. Filters [Implement at least 2 filters]   #done
