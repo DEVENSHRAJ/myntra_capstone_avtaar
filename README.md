@@ -10,6 +10,8 @@ https://devenshraj.github.io/myntra_capstone_avtaar/
 ![image](https://user-images.githubusercontent.com/69020033/161839663-362150b0-b835-4375-9f01-ec35a3ab5689.png)
 ![image](https://user-images.githubusercontent.com/69020033/161839753-08cbe95d-efad-440b-a3ac-fb534d1bd2c3.png)
 ![image](https://user-images.githubusercontent.com/69020033/161839779-8b36849a-aada-451b-a348-6c446fabfaca.png)
+#whishlist cart item number increament
+![image](https://user-images.githubusercontent.com/69020033/161844621-391776f5-02eb-44b3-a44f-5a0a47369eac.png)
 
 
 ![image](https://user-images.githubusercontent.com/69020033/161839920-30e8cd24-b824-4e5c-905c-9d6aa9ede3c3.png)
