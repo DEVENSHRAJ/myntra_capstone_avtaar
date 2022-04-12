@@ -1,3 +1,8 @@
+#Page depolyed here
+https://myntra-capstone-avtaar.pages.dev/
+![image](https://user-images.githubusercontent.com/69020033/162993334-ae7bd338-105d-4940-b75b-daa0b7595eaf.png)
+
+
 # myntra_capstone_avtaar
 Capstone myntra project work under avtaar
 https://devenshraj.github.io/myntra_capstone_avtaar/
